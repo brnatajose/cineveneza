@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.topo {
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+
+.topoint {
+    width: 100%;
+    max-width: 1040px;
+    height: 30px;
+    margin: auto;
+}
+
+.topoleft {
+    width: 50%;
+    height: 30px;
+    float: left;
+}
+
+.toporight {
+    width: 50%;
+    height: 28px;
+    float: right;
+}
+
+.topoleft ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.topoleft li {
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.topoleft li a {
+    text-decoration: none;
+    color: white;
+}
+
+.toporight {
+    line-height: 30px;
+    margin-top: 2px;
+}
+
+.topobusca {
+    width: 110px;
+    height: 26px;
+    outline: 0;
+}
+
+.toporight a {
+    float: right;
+    padding-left: 15px;
+
+}
+
+.topo2 {
+    height: 95px;
+
+}
+
+.topoint2 {
+    width: 100%;
+    max-width: 1040px;
+    height: 95px;
+    margin: auto;
+    background-color: white;
+}
+
+.logo {
+    width: 230px;
+    height: 95px;
+    float: left;
+}
+.logo img{
+    max-height: 90px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.topo2 .banner {
+    width: 728px;
+    height: 90px;
+    float: right;
+    margin-top: 2px;
+}
+.banner img{
+    max-width: 970px;
+    height: 90px;
+}
+.menu{
+    height: 40px;
+    background-color: rgb(0, 60, 0);
+}
+.menuint{
+    max-width: 1040px;
+    width: 100%;
+    height: 40px;
+    margin: auto;
+    background-color: blue;
+}
